@@ -1,2 +1,2 @@
 # LASTER
-Crystal Plasticity Elastic Strain Extractor
+Crystal P**last**icity **E**lastic Strain Extracto**r**
